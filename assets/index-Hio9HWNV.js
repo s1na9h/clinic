@@ -12654,7 +12654,7 @@ function vS() {
                     }), h.jsxs("div", {
                         children: [h.jsx("div", {
                             className: "font-ayandeh-bold text-slate-800",
-                            style: {fontSize: "0.9rem", lineHeight: 1.1},
+                            style: {fontSize: "0.7rem", lineHeight: 1.1},
                             children: "درمانگاه فرهنگیان قائمشهر"
                         }), h.jsx("div", {
                             className: "text-teal-600",
